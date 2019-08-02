@@ -1,4 +1,4 @@
-# Daily-FE-Question
-Daily-FE-Question
+# FE-DailyQuestion
+FE--DailyQuestion
 
 刷题吧，少年！
